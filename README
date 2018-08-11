@@ -1,3 +1,17 @@
+Changes
+-------
+
+    Patches
+    -------
+    * [clipbaord](https://st.suckless.org/patches/clipboard/)
+
+
+    Config
+    ------
+    * Shell to zsh
+    * Copy/paste to alt+shift+c/alt+shift+v
+
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
