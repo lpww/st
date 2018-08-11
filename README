@@ -3,7 +3,8 @@ Changes
 
     Patches
     -------
-    * [clipbaord](https://st.suckless.org/patches/clipboard/)
+    * clipboard - https://st.suckless.org/patches/clipboard/
+    * xresources - https://st.suckless.org/patches/xresources/
 
 
     Config
