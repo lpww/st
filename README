@@ -5,12 +5,14 @@ Changes
     -------
     * clipboard - https://st.suckless.org/patches/clipboard/
     * xresources - https://st.suckless.org/patches/xresources/
+    * blinking-cursor - https://aur.archlinux.org/cgit/aur.git/tree/st-blinking-cursor-20180605.diff?h=st-patched-git
 
 
     Config
     ------
     * Shell to zsh
     * Copy/paste to alt+shift+c/alt+shift+v
+    * Use blinking cursor
 
 
 st - simple terminal
