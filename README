@@ -16,6 +16,7 @@ Changes
     * Use blinking cursor
     * Scrollback with alt+pageup/alt+pagedown
     * Scrollback with alt+b/alt+f
+    * Font to mono (will use system font by default)
 
 
 st - simple terminal
